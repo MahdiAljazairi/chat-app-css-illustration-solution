@@ -19,6 +19,21 @@ body {
   font-family: Rubik;
 }
 
+a {
+  text-decoration: none;
+  color: #8838ff;
+  outline-offset: .5em;
+}
+
+a:hover,
+a:active {
+  text-decoration: underline;
+}
+
+a:active {
+  color: #e942ff;
+}
+
 main {
   flex: 1 0 auto;
   flex-direction: row-reverse;
@@ -31,20 +46,6 @@ main {
   opacity: .7;
   font-size: .7rem;
   margin: -3.5em 0 1.5em;
-}
-.attribution a {
-  text-decoration: none;
-  color: #8838ff;
-}
-
-.attribution a:hover,
-.attribution a:focus,
-.attribution a:active {
-  text-decoration: underline;
-}
-.attribution a:visited,
-.attribution a:active {
-  color: #e942ff;
 }
 
 /*------------------------------------------------------------*/
