@@ -1,4 +1,4 @@
-@font-face {font-family: Rubik; src: url("https://fonts.google.com/specimen/Rubik"); font-weight: 400 700;}
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap");
 
 *, ::before, ::after {
   box-sizing: border-box;
