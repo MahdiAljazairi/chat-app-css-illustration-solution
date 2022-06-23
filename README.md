@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <https://your-solution-url.com>
-- Live Site URL: <https://your-live-site-url.com>
+- Solution URL: <https://www.frontendmentor.io/solutions/a-soso-responsive-page-with-css-Mcaa_B6kCZ>
+- Live Site URL: <https://chat-app-css-illustration-solution-1234.netlify.app>
 
 ## My process
 
