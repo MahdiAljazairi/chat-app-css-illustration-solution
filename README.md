@@ -47,7 +47,7 @@ Eventually I realized setting multiple background images was the best approach f
 
 ### What I learned
 
-The `tranform` property doesn't change the proportions of an element..  
+The `transform` property doesn't change the proportions of an element..  
 That's the reason for the first issue in the next section.
 
 ### Known issues
